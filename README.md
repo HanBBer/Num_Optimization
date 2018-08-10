@@ -6,6 +6,7 @@ I will share my readding notes in this project
 
 ## Flag
 ~~**2018/8/2**: Aim to finish this book during 2018/8/2--2018/8/28~~
+
 **2018/8/10**: Aim to finish this book during 2018/8/2--2018/10/14
 
 # Log
